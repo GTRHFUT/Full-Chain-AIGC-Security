@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
+    <rect width="200" height="50" fill="transparent"/>
+    <circle cx="25" cy="25" r="15" fill="#3B82F6"/>
+    <path d="M25 15 L25 35 M15 25 L35 25" stroke="white" stroke-width="3"/>
+    <text x="50" y="32" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1E293B">AIGC RiskGuard</text>
+</svg>
